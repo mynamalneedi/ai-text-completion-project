@@ -7,7 +7,9 @@ A interactive text completion app that uses Cohere's `command-r` model to genera
 ## Files Included
 
 ├── text_completion_app.ipynb # Jupyter Notebook (Part 1 & 2)
+
 ├── project_report.pdf # Experimentation & Evaluation Report
+
 ├── README.md # This file
 
 
@@ -32,7 +34,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install cohere python-dotenv
 ```
 ### 4.  Add Your API Key
-In the file named .env,  replace your_api_key_here with your own key from Cohere.
+In the file named .env,  replace your_cohere_api_key_here with your own key from Cohere.
 ```bash
 COHERE_API_KEY=your_cohere_api_key_here
 ```
