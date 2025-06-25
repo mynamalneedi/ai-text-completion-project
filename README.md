@@ -32,7 +32,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install cohere python-dotenv
 ```
 ### 4.  Add Your API Key
-Create a file named .env in the root directory and add your Cohere API key:
+In the file named .env,  replace your_api_key_here with your own key from Cohere.
 ```bash
 COHERE_API_KEY=your_cohere_api_key_here
 ```
