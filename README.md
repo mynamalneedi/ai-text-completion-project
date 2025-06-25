@@ -17,8 +17,8 @@ A interactive text completion app that uses Cohere's `command-r` model to genera
 
 
 ```bash
-git clone https://github.com/yourusername/cohere-text-completion-app.git
-cd cohere-text-completion-app
+git clone https://github.com/mynamalneedi/ai-text-completion-project.git
+cd ai-text-completion-project
 ```
 
 ### 2. Create and Activate Virtual Environment (Optional)
